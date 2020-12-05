@@ -1,0 +1,13 @@
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\bin\Debug\netcoreapp3.1\RegistreationRegex.exe
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\bin\Debug\netcoreapp3.1\RegistreationRegex.deps.json
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\bin\Debug\netcoreapp3.1\RegistreationRegex.runtimeconfig.json
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\bin\Debug\netcoreapp3.1\RegistreationRegex.runtimeconfig.dev.json
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\bin\Debug\netcoreapp3.1\RegistreationRegex.dll
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\bin\Debug\netcoreapp3.1\RegistreationRegex.pdb
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.csprojAssemblyReference.cache
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.AssemblyInfoInputs.cache
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.AssemblyInfo.cs
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.csproj.CoreCompileInputs.cache
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.dll
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.pdb
+C:\Users\prattii\Desktop\UserRegistration\RegistreationRegex\obj\Debug\netcoreapp3.1\RegistreationRegex.genruntimeconfig.cache
